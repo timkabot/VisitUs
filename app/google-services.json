@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "285968643030",
+    "firebase_url": "https://vistuschat.firebaseio.com",
+    "project_id": "vistuschat",
+    "storage_bucket": "vistuschat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285968643030:android:06fa7d03c403bea3f66a77",
+        "android_client_info": {
+          "package_name": "com.example.visitus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285968643030-o6vkvo4o9uhnee0ndt1h31ea6vv89ie0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABcMj84vOPhDgXsy-yN-R9xNRJkPobeWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285968643030-o6vkvo4o9uhnee0ndt1h31ea6vv89ie0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

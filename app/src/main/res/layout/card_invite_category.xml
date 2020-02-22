@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical" android:layout_width="104dp"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/visitTypeImage"
+        android:layout_width="104dp"
+        android:layout_height="70dp"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/meet_category_type" />
+
+    <TextView
+        android:id="@+id/visitTypeTitle"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Знакомство"
+        android:gravity="center_horizontal"
+        />
+</LinearLayout>

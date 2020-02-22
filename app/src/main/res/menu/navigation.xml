@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nagivation_search"
+        android:icon="@drawable/search_icon"
+        android:title="" />
+    <item
+        android:id="@+id/nagivation_world"
+        android:icon="@drawable/world_icon"
+        android:title="" />
+    <item
+        android:id="@+id/nagivation_plus"
+        android:icon="@drawable/plus_icon"
+        android:title="" />
+    <item
+        android:id="@+id/nagivation_sms"
+        android:icon="@drawable/sms_icon"
+        android:title="" />
+    <item
+        android:id="@+id/nagivation_user"
+        android:icon="@drawable/user_icon"
+
+        android:title="" />
+</menu>
